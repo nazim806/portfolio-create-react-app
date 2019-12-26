@@ -12,7 +12,7 @@ https://gitconnected.com/v1/portfolio/<YOUR_USERNAME>
 
 **Instructions**
 
-git clone git@github.com:nazim806/portfolio-create-react-app.git
+git clone https://github.com/nazim806/portfolio-create-react-app.git
 
 cd portfolio-create-react-app
 
