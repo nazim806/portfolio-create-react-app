@@ -10,12 +10,20 @@ https://gitconnected.com/v1/portfolio/<YOUR_USERNAME>
 
 
 
-Instructions
+**Instructions**
+
 git clone git@github.com:nazim806/portfolio-create-react-app.git
+
 cd portfolio-create-react-app
-yarn install
-yarn start
-Packages
+
+npm install
+
+npm start
+
+**Packages**
+
 React (using create-react-app)
+
 Styled Components
+
 Carbon Design
