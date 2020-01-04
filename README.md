@@ -1,6 +1,6 @@
 # portfolio-create-react-app
 
-Portfolio using the gitconnected.com user portfolio API.
+Projects portfolio using gitconnected.com user portfolio API.
 
 Data is supplied by the gitconnected.com API and fetches the newest data on each page load. Make updates to the portfolio website without ever needing to change code or re-deploy. 
 
