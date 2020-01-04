@@ -27,8 +27,8 @@ npm start
 
 **Packages used:**
 
-React (using create-react-app)
+**React (using create-react-app)**
 
-Styled Components
+**Styled Components**
 
-Carbon Design
+**Carbon Design**
