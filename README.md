@@ -13,6 +13,8 @@ Use your API endpiont now:
 
 https://gitconnected.com/v1/portfolio/<YOUR_USERNAME>
 
+My API endpoint: https://gitconnected.com/v1/portfolio/nazim806
+
 
 
 **Instructions:**
